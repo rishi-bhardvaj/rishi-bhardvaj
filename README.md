@@ -34,6 +34,3 @@ const techStack = {
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration ideas, or just want to geek out about the latest tech trends. Happy coding! 🚀
 
----
-
-Feel free to tweak it to match your style or add any specific details you want!
