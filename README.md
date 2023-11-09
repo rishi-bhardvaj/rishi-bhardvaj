@@ -28,9 +28,9 @@ const techStack = {
 
 ## Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- 🌐 [Portfolio](https://www.yourportfolio.com)
+- 🐦 [Twitter](https://twitter.com/rishi_bhardvaj)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishibhardvaj/)
+- 🌐 [Portfolio](https://rishi-bhardvaj.github.io/Portfolio/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration ideas, or just want to geek out about the latest tech trends. Happy coding! 🚀
 
