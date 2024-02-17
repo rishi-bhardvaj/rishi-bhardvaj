@@ -12,15 +12,15 @@ I'm a Data Science and Machine Learning enthusiast who has recently embarked on 
 
 ## Tech Stack
 
-```javascript
+javascript
 const techStack = {
-  languages: ['HTML', 'CSS', 'JavaScript', 'Python'],
-  frameworks: ['React', 'Node.js', 'Express'],
-  databases: ['MongoDB', 'Firebase'],
+  languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'],
+  frameworks: ['React.js'],
+  databases: [SQL],
   tools: ['Git', 'VS Code', 'Postman'],
   machineLearning: ['TensorFlow', 'Scikit-Learn'],
+  operating-systems: ['Linux', "Windows"]
 };
-```
 
 ## Current Focus
 
