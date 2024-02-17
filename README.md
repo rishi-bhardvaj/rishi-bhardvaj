@@ -12,7 +12,7 @@ I'm a Data Science and Machine Learning enthusiast who has recently embarked on 
 
 ## Tech Stack
 
-'''javascript
+```javascript
 const techStack = {
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'],
   frameworks: ['React.js'],
@@ -21,7 +21,7 @@ const techStack = {
   machineLearning: ['TensorFlow', 'Scikit-Learn'],
   operating-systems: ['Linux', "Windows"]
 };
-'''
+```
 
 ## Current Focus
 
