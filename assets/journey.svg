@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-label="Career journey: DSATM, Edgeverve (Infosys) intern and engineer, Restofit lead full-stack, IIT Patna"><title>Career journey: DSATM, Edgeverve (Infosys) intern and engineer, Restofit lead full-stack, IIT Patna</title><defs><filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="path" gradientUnits="userSpaceOnUse" x1="30" y1="0" x2="965" y2="0"><stop offset="0" stop-color="#8b97b3"/><stop offset=".3" stop-color="#24e5ff"/><stop offset=".65" stop-color="#8b6bff"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient></defs><line x1="30" y1="175" x2="965" y2="175" stroke="#fff" stroke-opacity=".07" stroke-width="4" stroke-linecap="round"/>
+<line x1="30" y1="175" x2="965" y2="175" stroke="url(#path)" stroke-width="3" stroke-linecap="round" stroke-dasharray="935" stroke-dashoffset="935"><animate attributeName="stroke-dashoffset" from="935" to="0" dur="2.2s" fill="freeze"/></line>
+<path d="M958 167 L972 175 L958 183" fill="none" stroke="#ff4fd8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2s" dur=".3s" fill="freeze"/></path>
+<circle r="5" fill="#fff" filter="url(#glow)"><animateMotion dur="5s" begin="2.2s" repeatCount="indefinite" path="M30 175 L965 175"/></circle><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur=".5s" fill="freeze"/>
+<line x1="110" y1="175" x2="110" y2="215" stroke="#8b97b3" stroke-opacity=".6" stroke-dasharray="3 4"/>
+<circle cx="110" cy="175" r="7" fill="#060913" stroke="#8b97b3" stroke-width="3" filter="url(#glow)"/>
+
+<rect x="14" y="215" width="192" height="118" rx="14" fill="#0c1226" stroke="#8b97b3" stroke-opacity=".55"/>
+<rect x="14" y="215" width="5" height="118" rx="2.5" fill="#8b97b3"/>
+<text x="32" y="241" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11.5" fill="#8b97b3">Dec 2021 – Oct 2025</text>
+<text x="32" y="267" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf7">B.E. Computer Science</text>
+<text x="32" y="289" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b97b3">DSATM, Bangalore</text>
+<text x="32" y="313" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" fill="#8b97b3" fill-opacity=".85">DSA · Java · OOP</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur=".5s" fill="freeze"/>
+<line x1="305" y1="136" x2="305" y2="175" stroke="#24e5ff" stroke-opacity=".6" stroke-dasharray="3 4"/>
+<circle cx="305" cy="175" r="7" fill="#060913" stroke="#24e5ff" stroke-width="3" filter="url(#glow)"/>
+
+<rect x="209" y="18" width="192" height="118" rx="14" fill="#0c1226" stroke="#24e5ff" stroke-opacity=".55"/>
+<rect x="209" y="18" width="5" height="118" rx="2.5" fill="#24e5ff"/>
+<text x="227" y="44" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11.5" fill="#24e5ff">Feb – Jul 2025</text>
+<text x="227" y="70" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf7">SWE Intern</text>
+<text x="227" y="92" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b97b3">Edgeverve · Infosys</text>
+<text x="227" y="116" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" fill="#24e5ff" fill-opacity=".85">Java · Spring · Angular</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur=".5s" fill="freeze"/>
+<line x1="500" y1="175" x2="500" y2="215" stroke="#8b6bff" stroke-opacity=".6" stroke-dasharray="3 4"/>
+<circle cx="500" cy="175" r="7" fill="#060913" stroke="#8b6bff" stroke-width="3" filter="url(#glow)"/>
+
+<rect x="404" y="215" width="192" height="118" rx="14" fill="#0c1226" stroke="#8b6bff" stroke-opacity=".55"/>
+<rect x="404" y="215" width="5" height="118" rx="2.5" fill="#8b6bff"/>
+<text x="422" y="241" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11.5" fill="#8b6bff">Aug 2025 – Aug 2026</text>
+<text x="422" y="267" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf7">Software Engineer</text>
+<text x="422" y="289" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b97b3">Edgeverve · Finacle FNPR</text>
+<text x="422" y="313" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" fill="#8b6bff" fill-opacity=".85">OAuth2 · JWT · RBAC</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.95s" dur=".5s" fill="freeze"/>
+<line x1="695" y1="136" x2="695" y2="175" stroke="#ff4fd8" stroke-opacity=".6" stroke-dasharray="3 4"/>
+<circle cx="695" cy="175" r="9" fill="#060913" stroke="#ff4fd8" stroke-width="3" filter="url(#glow)"/>
+<circle cx="695" cy="175" r="9" fill="none" stroke="#ff4fd8"><animate attributeName="r" values="9;22" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".8;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="599" y="18" width="192" height="118" rx="14" fill="#0c1226" stroke="#ff4fd8" stroke-opacity=".55"/>
+<rect x="599" y="18" width="5" height="118" rx="2.5" fill="#ff4fd8"/>
+<text x="617" y="44" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11.5" fill="#ff4fd8">Jul 2026 – now</text>
+<text x="617" y="70" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf7">Lead Full-stack Dev</text>
+<text x="617" y="92" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b97b3">Restofit · OMS backend</text>
+<text x="617" y="116" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" fill="#ff4fd8" fill-opacity=".85">Node · TS · Prisma · PG</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur=".5s" fill="freeze"/>
+<line x1="890" y1="175" x2="890" y2="215" stroke="#ffb454" stroke-opacity=".6" stroke-dasharray="3 4"/>
+<circle cx="890" cy="175" r="9" fill="#060913" stroke="#ffb454" stroke-width="3" filter="url(#glow)"/>
+<circle cx="890" cy="175" r="9" fill="none" stroke="#ffb454"><animate attributeName="r" values="9;22" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".8;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="794" y="215" width="192" height="118" rx="14" fill="#0c1226" stroke="#ffb454" stroke-opacity=".55"/>
+<rect x="794" y="215" width="5" height="118" rx="2.5" fill="#ffb454"/>
+<text x="812" y="241" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11.5" fill="#ffb454">Jul 2026 – now</text>
+<text x="812" y="267" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf7">AI &amp; Data Intelligence</text>
+<text x="812" y="289" font-family="'Segoe UI','SF Pro Display',Inter,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b97b3">IIT Patna · i-Hub</text>
+<text x="812" y="313" font-family="'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" fill="#ffb454" fill-opacity=".85">currently learning</text></g></svg>
